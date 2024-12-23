@@ -1,6 +1,6 @@
 ﻿# Meu portifólio feito em HTML S5 , CSS com um formulário de capturador de e-mail.
 
-   ![Logo do Projeto]([https://github.com/usuario/repo/blob/main/imagem.png](https://github.com/rsilvadevelloper/my-portifolio/blob/main/Captura%20de%20tela%202024-12-23%20023650.png))
+   ![Logo do Projeto][https://github.com/usuario/repo/blob/main/imagem.png]
 
 Link: https://my-portifolio-index.netlify.app/
 
