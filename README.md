@@ -13,6 +13,7 @@
 ---
 
 ### **Índice**
+
 - [Sobre](#sobre)
 - [Tecnologias Usadas](#tecnologias-usadas)
 - [Instalação](#instalacao)
@@ -127,5 +128,3 @@ Exemplo de integração com o **EmailJS**:
 4. **Teste o formulário** para garantir que os e-mails sejam enviados corretamente.
 
 ---
-
-Esse modelo pode ser facilmente adaptado para incluir mais informações, como detalhes de design ou customizações. Se precisar de algo mais ou quiser ajustar algum detalhe, estou à disposição para ajudar, Sr. Silva!
