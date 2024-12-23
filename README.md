@@ -1,10 +1,9 @@
 ﻿# Meu portifólio feito em HTML S5 , CSS com um formulário de capturador de e-mail.
 
- 
-  ![Texto alternativo](https://github.com/rsilvadevelloper/my-portifolio/blob/main/Captura%20de%20tela%202024-12-23%20023650.png)
-   
-Link: https://my-portifolio-index.netlify.app/
+ Link: https://my-portifolio-index.netlify.app/
 
+ ![Texto alternativo](https://github.com/rsilvadevelloper/my-portifolio/blob/main/Captura%20de%20tela%202024-12-23%20023650.png)
+  
 ---
 
 ## **Portfólio Simples - HTML e CSS com capturador de e-mail**
