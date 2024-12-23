@@ -1,6 +1,6 @@
 ﻿# Meu portifólio feito em HTML S5 , CSS com um formulário de capturador de e-mail.
 
-![Texto alternativo]([URL-da-imagem](https://github.com/rsilvadevelloper/my-portifolio/blob/main/Screenshot%202024-12-23%20at%2002-24-49%20Ronald%20da%20Silva.png))
+![Texto alternativo]([https://github.com/rsilvadevelloper/my-portifolio/blob/main/Screenshot%202024-12-23%20at%2002-24-49%20Ronald%20da%20Silva.png])
 
 Link: https://my-portifolio-index.netlify.app/
 
