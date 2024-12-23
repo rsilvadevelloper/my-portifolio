@@ -1,4 +1,3 @@
 ﻿# Meu pportifolio feito em HTMLS5 , CSS e com um formulario de captura de email
 
- ![Formulario] [Captura de tela 2024-12-23 000314.png
-](https://github.com/rsilvadevelloper/my-portifolio/blob/main/Captura%20de%20tela%202024-12-23%20000314.png)
+![Texto alternativo]([URL-da-imagem](https://github.com/rsilvadevelloper/my-portifolio/blob/main/Captura%20de%20tela%202024-12-23%20000314.png))
